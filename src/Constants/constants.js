@@ -83,9 +83,9 @@ const introduction = {
 	text: [
 		"Hello there, I'm so happy you are here! (:",
 
-		"My name is Abrham. Aspiring software engineer with a strong foundation in object-oriented programming languages. Passionate about building large-scale technology solutions, I aim to impact millions of users globally. I adapt quickly to new challenges and cutting-edge technologies, thriving in dynamic teams that foster creativity and continuous learning.",
+		"My name is Abrham Kassa. I'm a software engineer with a strong foundation in object-oriented programming. I am very passionate about building large-scale technology solutions, that aim to have impact millions of users globally. I adapt quickly to new challenges and cutting-edge technologies and thrive in dynamic teams that foster creativity and continuous learning.",
 
-		"Beyond coding, I find joy in the great outdoors, embracing nature and outdoor activities. When indoors, you'll catch me indulging in the thrill of video games. A self-proclaimed geek now and then, I bring a playful enthusiasm to my love for technology and innovation.",
+		"Beyond coding, I find joy in the great outdoors, embracing nature and outdoor activities. When indoors, you'll catch me indulging in the thrill of video games. I am a self-proclaimed geek now and then and I enjoy bringing a playful enthusiasm to my love for technology and innovation.",
 
 		"I'm always eager to learn and committed to advancing my professional skills, with the ultimate goal of contributing to groundbreaking projects and making a meaningful impact in the global technology landscape.",
 	],
@@ -120,7 +120,7 @@ const projects = [
 			"A simple and user-friendly web app with user registration and login features. This dynamic application empowers users to seamlessly navigate through tasks with an intuitive interface, simplifying the process of Searching, Creating, Updating, and Deleting tasks.",
 		image: todo,
 		source_code_link: "https://github.com/kassaab/To_Do_list_app_with_user_authentication",
-		demo_link: "https://arasarmemory.netlify.app/",
+		demo_link: "https://todo-kassa.vercel.app",
 	},
 	{
 		name: "Weather App",
@@ -129,20 +129,20 @@ const projects = [
 		image: weather,
 		source_code_link: "https://github.com/kassaab/Weather_project",
 		demo_link:
-			"https://www.figma.com/proto/zhK8DMa7uPyQIcHxkemIcx/Pawsitive?type=design&node-id=40-2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=40%3A2",
+			"https://weather-kassa.onrender.com",
 	},
 	{
 		name: "Video Conference",
 		description:
-			"Built with Django and Zego Cloud, the video conference app offers seamless user authentication, meeting initiation, room joining, in-room chat, and screen sharing/presenter capabilities. Connect effortlessly and enhance collaboration with this feature-rich platform.",
+			"Built with Django and Zegocloud, the video conference app offers seamless user authentication, meeting initiation, room joining, in-room chat, and screen sharing/presenter capabilities. The app allows users to connect effortlessly and enhances collaboration.",
 		image: videoConference,
 		source_code_link: "https://github.com/kassaab/Video_conference_app",
-		demo_link: "https://bl33hscalculator.netlify.app/",
+		demo_link: "https://video-conference.1.us-1.fl0.io",
 	},
 	// {
 	// 	name: "CRPM",
 	// 	description:
-	// 		"This is a buitful app with sjknknskns sjsjd sgav dsjksja dhhdhhds gssgd shshdjjakka gd c shhdhka dhhdha sbjdbjbjc.",
+	// 		"This is a ...",
 	// 	image: avatar,
 	// 	source_code_link: "#",
 	// 	demo_link: "#"
@@ -252,20 +252,7 @@ const skills = [
 		description:
 			"Office 365 | Project Coordination | Customer Service | Business Communication | Bilingual | Time Management | Problem-solving | and Analytical Skills",
 	},
-	// {
-	// 	id: "raspi",
-	// 	title: "Raspberry Pi",
-	// 	icon: raspIcon,
-	// 	description:
-	// 		"I have hands-on experience with Raspberry Pi, where I utilized a virtual Linux machine to execute programs written in assembly language. This allowed me to explore low-level computing and develop efficient code for the Raspberry Pi platform.",
-	// },
-	// {
-	// 	id: "eslint",
-	// 	title: "Eslint",
-	// 	icon: eslintIcon,
-	// 	description:
-	// 		"I utilize ESLint to identify and resolve code issues, as well as standardize the structure of my projects. With ESLint, I ensure code quality and consistency throughout my development process.",
-	// },
+
 ];
 
 const markerSvg = `<svg viewBox="-4 0 36 36">
