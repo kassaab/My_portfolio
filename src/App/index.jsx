@@ -11,8 +11,8 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { BrowserRouter } from "react-router-dom";
-import PreloadMedia from "src/Components/PreloadMedia.jsx";
-import { media } from "src/Constants/constants.js";
+import PreloadMedia from "../src/Components/PreloadMedia.jsx";
+import { media } from "../src/Constants/constants.js";
 import App from "./App";
 import "./index.css";
 import "font-awesome/css/font-awesome.min.css";
