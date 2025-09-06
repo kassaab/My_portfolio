@@ -11,12 +11,12 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { BrowserRouter } from "react-router-dom";
-import PreloadMedia from "../src/Components/PreloadMedia.jsx";
-import { media } from "../src/Constants/constants.js";
+import PreloadMedia from "../Components/PreloadMedia.jsx";
+import { media } from "../Constants/constants.js";
 import App from "./App";
 import "./index.css";
 import "font-awesome/css/font-awesome.min.css";
-import "public/Fonts/Morganite/morganiteFont.css";
+import "/Fonts/Morganite/morganiteFont.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
